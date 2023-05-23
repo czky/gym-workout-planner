@@ -20,3 +20,15 @@ You can install these packages using the following command:
 ```shell
 pip install tkinter pytube Pillow requests
 ```
+
+## Usage
+
+Run the gym_workout_planner.py file.
+Select a workout type (Push, Pull, or Legs) by clicking on the corresponding radio button.
+The list of exercises for the selected workout type will be displayed in the listbox.
+Select an exercise from the list to view its details, including the number of reps and sets.
+A thumbnail image of the exercise video will be shown.
+Click the "Play Video" button to open the exercise video in a web browser.
+To start the workout, click the "Start Workout" button.
+
+Feel free to explore different workout types, select exercises, and watch the demonstration videos to help plan your gym workouts effectively!
